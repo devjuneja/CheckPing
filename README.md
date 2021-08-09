@@ -1,4 +1,4 @@
-# TCP Eyenet
+# Ping_checker
 
 ## Table of Contents
 + [About](#about)
